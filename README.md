@@ -1,4 +1,4 @@
-👋 Hi, I'm Jéssica Nunes lover of coffee and transition to Full Stack developer.
+👋 Hi, I'm Jéssica Nunes lover of coffee and transition to Full Stack Developer.
 
 Here you will find my projects in which I apply my knowledge of the tools I have been studying to create and solve problems through programming.
 
