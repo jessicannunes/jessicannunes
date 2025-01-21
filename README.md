@@ -9,3 +9,6 @@ Tools Skills:
 ✅ TypeScript
 ✅ Angular
 ✅ SQL
+✅ JAVA
+✅ SpringBoot
+
