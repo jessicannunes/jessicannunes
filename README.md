@@ -11,7 +11,6 @@ Em busca de novos desafios profissionais estou em migração para o desenvolvime
   </a>
 </p>
 
-##### https://www.linkedin.com/in/jessica-nunes-dias/
 
 
 
