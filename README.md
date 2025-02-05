@@ -3,7 +3,7 @@
 
 Atualmente atuo como Analista de Setor na Livraria Leitura com mais de 50 anos de história e um rede de livrarias com quase 125 lojas.
 Em busca de novos desafios profissionais, estou em migração para o desenvolvimento de software em especial o backend.
-Aplico os meus conhecimentos adquiridos nos cursos em projetos pessoais nos quais você pode conferir por aqui meu github. O objetivo nessa nova carreira de desenvolvedora de software é criar soluções eficientes e inovadoras através da programação.
+Aplico os meus conhecimentos adquiridos nos cursos em projetos pessoais nos quais você pode conferir por aqui no meu github. O objetivo nessa nova jornada como desenvolvedora de software é criar soluções eficientes e inovadoras através da programação.
 
 ### Habilidades Técnicas:
 <p align="center">
