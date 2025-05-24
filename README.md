@@ -8,7 +8,7 @@ Aplico os meus conhecimentos adquiridos nos cursos em projetos pessoais nos quai
 ### Habilidades Técnicas:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,dotnet,angular,postgres,mysql,docker,git" />
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,postgres,mysql,docker,git" />
   </a>
 </p>
 
